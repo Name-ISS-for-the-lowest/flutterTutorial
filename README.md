@@ -12,3 +12,18 @@ by following a tutorial, and added it to an organization repo.
 Here's the link to the tutorial
 
 https://www.youtube.com/watch?v=D4nhaszNW4o
+
+-the default branch of this repo is restricted
+
+-here is how to clone the repo an create a new branch
+-under your name
+
+git clone <thisRepo>
+
+git checkout -b <yourName>
+
+git add .
+
+git commit .
+
+git push --set-upstream origin <yourName>
