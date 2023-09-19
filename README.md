@@ -24,7 +24,7 @@ git checkout -b [yourName]
 
 git add .
 
-git commit .
+git commit . "[comment]"
 
 git push --set-upstream origin [yourName]
 
@@ -39,6 +39,6 @@ git remote add origin [thisRepo]
 
 git add .
 
-git commit -m
+git commit -m "[comment]"
 
 git push --set-upstream origin [yourName]
