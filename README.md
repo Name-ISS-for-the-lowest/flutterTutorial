@@ -28,8 +28,11 @@ git commit . "[comment]"
 
 git push --set-upstream origin [yourName]
 
-<!-- -alternatively if you want to do the tutorial from scratch create your own empty flutter project and run
-this commands on the root dir. -->
+FROM SCRATCH
+
+```
+ if you want to do the tutorial from scratch create your own empty flutter project and run
+this commands on the root dir.
 
 git init
 
@@ -42,3 +45,4 @@ git add .
 git commit -m "[comment]"
 
 git push --set-upstream origin [yourName]
+```
