@@ -18,12 +18,12 @@ https://www.youtube.com/watch?v=D4nhaszNW4o
 -here is how to clone the repo an create a new branch
 -under your name
 
-git clone <thisRepo>
+git clone [thisRepo]
 
-git checkout -b <yourName>
+git checkout -b [yourName]
 
 git add .
 
 git commit .
 
-git push --set-upstream origin <yourName>
+git push --set-upstream origin [yourName]
